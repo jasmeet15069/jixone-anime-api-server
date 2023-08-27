@@ -9,7 +9,7 @@ Clone the Repository and run
 
 
 ```
-git clone https://github.com/warlordsnet/zia-api.git
+git clone https://github.com/jasmeet15069/jixone-anime-api-server.git
 cd zia-api
 pnpm install 
 ```
