@@ -1,4 +1,4 @@
-# Zia API
+# Jixone-Anime API
 
 # Deploy
 Fork repo and directly deploy to heroku, render or railway or your vps.
